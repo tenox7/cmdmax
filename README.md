@@ -1,4 +1,4 @@
-cmdmax is a tiny Windows application that allows to maximize cmd.exe window to match the full screen size. 
+**cmdmax** is a tiny Windows application that allows to maximize *cmd.exe* window to match the full screen size. 
 Unlike maximize button the utility changes botch horizontal and vertical size of the console window in characters.
 User can specify x/y windows position, width height and buffer size. The application is intended to be used in
 scripts / batch jobs, Windows PE, embedded, etc. 
