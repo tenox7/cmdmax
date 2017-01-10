@@ -1,3 +1,0 @@
-cmdmax is a tiny Windows application that allows to maximize cmd.exe window to match the full screen size. Unlike maximize button the utility changes botch horizontal and vertical size of the console window in characters. Additionaly the buffer size is set to 3000 lines vertically. The application is intended to be used in scripts / batch jobs, Windows PE, embedded, etc. 
-
-NEW: Version 2.0 allows user specified x/y position, window width/height and buffer size! 
