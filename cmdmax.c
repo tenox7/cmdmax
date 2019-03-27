@@ -22,7 +22,7 @@ Author:
 
 License:
    
-    Public Domain
+    Apache 2.0
 
 --*/
 
